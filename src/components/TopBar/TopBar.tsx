@@ -34,7 +34,7 @@ export default function TopBar() {
           {/* Helpline */}
           <div className="flex items-center gap-2">
             <Phone className="h-4 w-4 animate-pulse text-green-400" />
-            <span className="font-medium">Helpline: 1-800-EDUERP</span>
+            <span className="font-medium">Helpline: +917348765761</span>
           </div>
         </div>
       </div>
